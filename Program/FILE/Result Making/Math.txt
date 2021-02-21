@@ -1,0 +1,10 @@
+
+
+		Number of students received in Mathematics.
+
+		-----------------------------------------
+		 Roll no:1	----------	Number:100
+		 Roll no:2	----------	Number:15
+		 Roll no:3	----------	Number:85
+		 Roll no:4	----------	Number:96
+		 Roll no:5	----------	Number:36

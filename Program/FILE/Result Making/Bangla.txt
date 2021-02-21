@@ -1,0 +1,10 @@
+
+
+		  Number of students received in Bangla.
+
+		-----------------------------------------
+		Roll no:1	----------	Number:25
+		Roll no:2	----------	Number:25
+		Roll no:3	----------	Number:89
+		Roll no:4	----------	Number:78
+		Roll no:5	----------	Number:54

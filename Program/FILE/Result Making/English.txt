@@ -1,0 +1,10 @@
+
+
+		 Number of students received in English.
+
+		-----------------------------------------
+		Roll no:1	----------	Number:50
+		Roll no:2	----------	Number:32
+		Roll no:3	----------	Number:65
+		Roll no:4	----------	Number:54
+		Roll no:5	----------	Number:25

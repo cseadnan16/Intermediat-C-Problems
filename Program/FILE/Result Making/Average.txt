@@ -1,0 +1,14 @@
+
+
+		 Average score of all subject matter of students.
+
+		-----------------------------------------------------------------------------------------------
+		Roll no:1  ----------  Average number:58.00  ----  GPA: 3.0  --------  Grade: B  -------  Passed
+		Roll no:2  ----------  Average number:24.00  ----  GPA: 0.0  --------  Grade: F  -------  Fail
+		Roll no:4  ----------  Average number:76.00  ----  GPA: 4.0  --------  Grade: A  -------  Passed
+		Roll no:5  ----------  Average number:38.00  ----  GPA: 1.0  --------  Grade: D  -------  Passed
+
+
+
+		Highest mark = 79
+		Lowest mark = 0
